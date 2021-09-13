@@ -1,4 +1,4 @@
-package modeldiff
+package structdiff
 
 import (
 	"encoding/json"
